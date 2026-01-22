@@ -2,14 +2,14 @@
   "ads": {
    
 
-     "ShowAds": false,
+     "ShowAds": true,
      "ClickCount": 1,
      "ShowLoadingAds": true,
 
     "AdmobInterstitial": "ca-app-pub-7292573788780961/5363053643",
     "AdmobBanner":"ca-app-pub-7292573788780961/2947733515",
     "AdmobNative":"ca-app-pub-7292573788780961/7103688339",
-    "AdmobOpen":"",
+    "AdmobOpen":"ca-app-pub-7292573788780961/5686487276",
 
     
 
