@@ -1,14 +1,14 @@
 {
   "ads": {
-    "ShowAds": false,
+    "ShowAds": true,
     "ClickCount": 1,
     "ShowLoadingAds": true,
     "AdmobInterstitial": "ca-app-pub-7292573788780961/9005299651",
     "AdmobBanner": "ca-app-pub-7292573788780961/2575622671",
     "AdmobNative": "ca-app-pub-7292573788780961/2711354045",
     "AdmobOpen": "",
-    "admob_reward": "",
-    "admob_rewardinterstitial": "",
+    "admob_reward": "ca-app-pub-7292573788780961/5015964085",
+    "admob_rewardinterstitial": "ca-app-pub-7292573788780961/6323295998",
     "FanBanner": "IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
     "FanNative": "IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
     "FanInterstitial": "IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
